@@ -14,3 +14,9 @@ Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
 [lavalust-auth-system](https://github.com/wilfredpine/lavalust-auth-system)
 
 [laravel11-auth-system](https://github.com/wilfredpine/laravel11-auth-system)
+
+## Other Links
+
+[useful-php-scripts](https://github.com/ttodua/useful-php-scripts)
+
+[awesome-php](https://github.com/ziadoz/awesome-php)
